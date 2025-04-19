@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: sachin's Portfolio
+description: A showcase of my projects and skills
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
